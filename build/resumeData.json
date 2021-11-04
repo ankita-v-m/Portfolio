@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Ankita Marathe",
+    "occupation": "Computer Science Graduate Student",
+    "description": "at University of North Carolina at Charlotte",
+    "image": "profilePic.jpeg",
+    "bio": "I am a Graduate student majoring in Computer Science at University of North Carolina at Charlotte. My focus of study is Software Engineering, and I am looking for Summer Internship 2022 opportunities in Software Development / Software Engineer / Full Stack Developer graduating 2023. My objective is to obtain an opportunity to learn, absorb and refine my skills to achieve constant growth as a person and a professional in the field of Computer Science. I would also like to work with a dynamic firm and overcome all the challenges in the project on time. I have done multiple projects and taken courses in Masters degree towards the area of my interest.",
+    "contactmessage": "Actively looking for a Summer Internship 2022. And if you want to discuss technical stuff or develop a software product, feel free to contact me.",
+    "email": "ankitamarathe2016@gmail.com",
+    "phone": "+1 980-298-9970",
+    "address": {
+      "street": "University Terrace",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28262"
+    },
+    "website": "http://www.ankitamarathe.com",
+    "resumedownload": "AnkitaMarathe_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ankita.marathe.5492",
+        "className": "fa fa-facebook"
+      },     
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/ankitamarathe209",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/ankitavijaymarathe",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ankita-v-m",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of North Carolina at Charlotte",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2023",
+        "description": "Currently I am learning advanced skills and knowledge in planning, design, implementation, testing and management of computer systems and applications."
+      },
+      {
+        "school": "MGM's Jawaharlal Nehru Engineering College",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "June 2019",
+        "description": "In my undergrad in Computer Science and Engineering and learned about computer operating systems, databases, how to develop softwares and applications."
+      }
+    ],
+    "work": [
+      {
+        "company": "Utterwise Technologies, India",
+        "title": "Software Engineer",
+        "years": "November 2020 - July 2021",
+        "description": "Led Electronic Toll Management System (ETMS) project as a frontend developer in React JS. And created boilerplate and screens for this project in React JS. Worked on Transaction reviews for the transactions that occurred on the toll. Developed frontend screens for Automatic Traffic Management System (ATMS) in React JS.Created database CRUD operation modules, event auditing module, landing page showing overall status of events using Nivo Charts."
+      },
+      {
+        "company": "Magicflare Software Services,India",
+        "title": "Software Engineer Intern",
+        "years": "February 2020 - September 2020",
+        "description": "Developed Oracle Service Bus (OSB) interfaces for Tupperware project. Worked with design and development of Android project with the help of Figma."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },      
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Voice-Bot For Insurance Domain Customer Services",
+        "category": "Voice bot",
+        "image": "voicebot.png",
+        "url": "https://github.com/mandgenikhil/VoiceBot"
+      },
+      {
+        "title": "Automatic Billing system",
+        "category": "Billing System",
+        "image": "billing_system.jpg",
+        "url": "https://github.com/ankita-v-m/Automatic_Billing_System"
+      },
+      {
+        "title": "Quiz App",
+        "category": "User can play quizzes in different genres.",
+        "image": "quiz_app.jpg",
+        "url": "https://github.com/ankita-v-m/Quiz-App"
+      },
+      {
+        "title": "Chit Chat App",
+        "category": "An Android Chat application",
+        "image": "chat_app.png",
+        "url": "https://github.com/ankita-v-m/Chit-Chat-App"
+      },
+      {
+        "title": "English Thesaurus",
+        "category": "English Dictionary developed in Python",
+        "image": "english_dict.jpeg",
+        "url": "https://github.com/ankita-v-m/English_Thesaurus"
+      }
+    ]
+  }
+}
