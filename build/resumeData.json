@@ -15,7 +15,7 @@
       "zip": "28262"
     },
     "website": "http://www.ankitamarathe.com",
-    "resumedownload": "AnkitaMarathe_Resume.pdf",
+    "resumedownload": "Ankita_Marathe_MS_CS.pdf",
     "social": [
       {
         "name": "facebook",
@@ -55,6 +55,12 @@
       }
     ],
     "work": [
+      {
+        "company": "University of North Carolina at Charlotte",
+        "title": "Graduate Teaching Assistant",
+        "years": "January 2022 - Present",
+        "description": "Appointed as a Graduate Teaching Assistant for Introduction to Information Security and Privacy course."
+      },
       {
         "company": "Utterwise Technologies, India",
         "title": "Software Engineer",
